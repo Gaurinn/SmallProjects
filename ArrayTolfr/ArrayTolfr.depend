@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507502318 source:/home/andri/Documents/Prog/lab7/ArrayTolfr/main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

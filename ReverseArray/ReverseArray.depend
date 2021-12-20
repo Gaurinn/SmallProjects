@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507480262 source:/home/andri/Documents/Prog/lab7/ReverseArray/main.cpp
+	<iostream>
+	<string.h>
+

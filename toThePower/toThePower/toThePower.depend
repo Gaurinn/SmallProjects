@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505689586 source:/home/andri/Documents/Prog/vika5/toThePower/toThePower/main.cpp
+	<iostream>
+	<cmath>
+

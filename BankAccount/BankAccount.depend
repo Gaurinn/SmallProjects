@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509402635 source:/home/andri/Documents/Prog/lab10/BankAccount/main.cpp
+	<iostream>
+	"BankAccount.h"
+
+1509402467 /home/andri/Documents/Prog/lab10/BankAccount/include/BankAccount.h
+	<iostream>
+
+1509402536 source:/home/andri/Documents/Prog/lab10/BankAccount/src/BankAccount.cpp
+	"BankAccount.h"
+

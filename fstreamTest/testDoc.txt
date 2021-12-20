@@ -1,0 +1,12 @@
+Integer value: 2
+Double value: 4.6
+Integer value: 2
+Double value: 4.6
+Integer value: 2
+Double value: 4.6
+Integer value: 2
+Double value: 4.6
+andri
+andri
+blablabla
+gummi

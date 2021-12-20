@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510095424 source:/home/andri/Documents/Prog/lab10/Time/main.cpp
+	<iostream>
+	"Time.h"
+
+1510096158 /home/andri/Documents/Prog/lab10/Time/include/Time.h
+	<iostream>
+	<iomanip>
+
+1510095492 source:/home/andri/Documents/Prog/lab10/Time/src/Time.cpp
+	"Time.h"
+

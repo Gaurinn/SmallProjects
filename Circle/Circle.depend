@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508714871 source:/home/andri/Documents/Prog/Circle/main.cpp
+	<iostream>
+	"Circle.h"
+
+1508716655 /home/andri/Documents/Prog/Circle/include/Circle.h
+
+1508714855 source:/home/andri/Documents/Prog/Circle/src/Circle.cpp
+	"Circle.h"
+

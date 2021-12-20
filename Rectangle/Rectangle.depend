@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508712806 source:/home/andri/Documents/Prog/Rectangle/main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1508712858 /home/andri/Documents/Prog/Rectangle/include/Rectangle.h
+
+1508712854 source:/home/andri/Documents/Prog/Rectangle/src/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+

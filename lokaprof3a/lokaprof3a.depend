@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510866112 source:/home/andri/Documents/mooshakPractice/lokaprof3a/main.cpp
+	<iostream>
+	<iomanip>
+	"Nemandi.h"
+	<string.h>
+
+1510867682 /home/andri/Documents/mooshakPractice/lokaprof3a/include/Nemandi.h
+
+1510867691 source:/home/andri/Documents/mooshakPractice/lokaprof3a/src/Nemandi.cpp
+	<iostream>
+	"Nemandi.h"
+	<string.h>
+	<cstring>
+

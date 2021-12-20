@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506297087 source:/home/andri/Documents/Prog/lab5/horizontalAddition/main.cpp
+	<iostream>
+	<cmath>
+
